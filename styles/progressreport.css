@@ -1,0 +1,28 @@
+#tab
+{
+	margin: 0 auto;
+	border-style:dashed;
+	border-width:thick;
+	border-color:black;
+	background-color:#FFFF99;
+}
+
+#month
+{
+	font-size:35px;
+	font-family: Kristen ITC;
+	color:#000080;
+}
+
+.olt
+{
+	width:90%;
+	height:100px;
+	border:1px solid #000;
+}
+
+.progress
+{
+	font-size: 20px;
+	font-family: Kristen ITC;
+}

@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+	<title>MSB kids - Login</title>
+	
+	<link rel="stylesheet" type="text/css" href="../styles/header&footer.css">
+	<link rel="stylesheet" type="text/css" href="../styles/login1.css">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+	
+   
+	<style>
+		#backgroundpic{
+			background-image: url("../images/backgroundpic.gif");
+			background-size: 100%;
+		}
+	</style>
+
+</head>
+
+<body>
+	<header class="header">
+		<img src="../images/msb.png" alt="MSB" width="200.1" height="87.3" 
+		<h2><i>Making learning more fun and enjoyable...</i></h2>
+		<a class="ls" href="Registrationpage.php">| Sign-up</a> 
+		 <a class="ls" href="login.html">Login &nbsp<p></p></a>
+
+		<ul class="header">
+			<li class="header"><a href="Home page.html">Home</a></li>
+			<li class="header"><a href="skills.html">Games</a></li>
+			<li class="header"><a href="help.html">Help</a></li>
+			<li class="header"><a href="buygames.php"><div id="icon"><i class="fa fa-shopping-bag" aria-hidden="true"></i></div></a></li>
+			
+		</ul>
+	</header>    
+	
+	<div id="backgroundpic">
+	
+	<center><h2>Login</h2></center>
+	<form method="post" action="authenticate.php">
+  <div class="imgcontainer">
+    <img src="../images/phs.png" alt="Avatar" class="avatar">
+  </div
+
+  
+  <div class="container">
+    <center>
+			<label for="username"><b>Username </b></label>
+			<input type="text" placeholder="Enter Username" name="username" required>
+			<br>
+			
+
+			<label for="password"><b>Password </b></label>
+			<input type="password" placeholder="Enter Password" name="password" required>
+			<br>
+			
+			<input type="checkbox" checked="checked" name="remember"> Remember me
+    </center>
+	
+    <center>
+			<button type="submit">Login</button>
+			<p>Or login with your Google account</p>
+			<a href="https://myaccount.google.com/" style="  padding: 10px; font-size:30px; width:70px; text-align:center; text-decoration:none; margin:5px 2px;" class="fa fa-google"></a>
+			<p>Haven't got an account yet? then&nbsp <a href="signup.html">Sign-up</a> &nbsp now! </p>
+	</center>
+    
+
+  </div>
+  <div class="container" style="background-color:#F9E79F">
+    <button type="button" class="cancelbtn"><a href="Home page.html">Cancel</a></button>
+    <span class="psw">Forgot <a href="forgotpwmsb.html">password?</a></span>
+  </div>
+</form>
+</div>
+	<br><br>
+	
+	<center>
+	<footer class="footer">
+		<ul class="footer">
+			<li class="footer"><a href="#">Private Policy</a></li>
+			<li class="footer"><a href="#">About us</a></li>
+			<li class="footer"><a href="contactus.html">Contact</a></li>
+			<li class="footer"><a href="#">Download</a></li>
+			<li class="footer"><a href="#">Terms and Conditions</a></li>
+		</ul><br>
+
+		<hr id="line">
+		<h6>© MSB Games</h6>
+		
+	</footer>
+	</center>
+
+</body>
+<!--Referred from w3schools -->
+</html>

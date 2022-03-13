@@ -1,0 +1,30 @@
+.forform
+{
+	background-color:#808080;
+	border-style: dotted;
+	margin: 0 auto; 
+    width:80%;
+}
+
+.details
+{
+	font-size: 25px;
+	font-style: italic;
+	font-family:Kristen ITC;
+	color: #800000;
+}
+
+.edituser
+{
+	font-size: 35px;
+	font-family:Kristen ITC;
+	color:#000080;
+}
+.div
+{   width:80%; 
+    display: inline-block; 
+    margin-left:50%;
+    margin-right: 60px;
+	position: absolute;
+	
+}

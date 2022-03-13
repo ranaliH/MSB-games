@@ -1,0 +1,39 @@
+ .forform
+{
+	background-color:#C9A0DC;
+	border-style: dotted;
+	margin: 0 auto; 
+    width:80%;
+	
+}
+
+.details
+{
+	font-size: 25px;
+	font-style: italic;
+	font-family:Kristen ITC;
+	color: #800000;
+}
+
+.signup
+{
+	font-size: 35px;
+	font-family:Kristen ITC;
+	color:#000080;
+}
+	
+.fill
+{
+	font-family:Comic Sans MS;
+	
+}
+
+.div
+{   width:80%; 
+    display: inline-block; 
+    margin-left:50%;
+    margin-right: 60px;
+	position: absolute;
+	margin-top:30px;
+	
+}

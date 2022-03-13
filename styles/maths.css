@@ -1,0 +1,236 @@
+@charset "utf-8";
+/* CSS Document */
+/*----------------------------------------------------------------------------------------------------------------*/
+/*js css*/
+.gameinfo { 
+  height: 750px;
+  width:  1200px;
+  position: relative;
+  /*top: 1500%;*/
+  left: 20%;
+  /*border: 3px solid green; */
+  
+}
+
+.gtext{
+  background-color:  aqua;
+  width: 300px;
+  border: 2px solid black;
+  padding: 20px;
+  margin: 10px;
+  font-family: "kristen ITC";
+  border-radius: 10px;
+}
+
+.gtextp{
+  background-color:  aqua;
+  width: 1100px;
+  border: 2px solid black;
+  padding: 20px;
+  margin: 10px;
+  font-family: "kristen ITC";
+  border-radius: 10px;	
+}
+
+#gimg{
+  width: 400px;
+  height: 300px;
+  border: 10px solid blue;  
+}
+/*---------------------------------------------------------------------------------------------------------------*/
+/*topic*/
+.topic{
+  background-color:  #1aff1a;
+  width: 300px;
+  border: 2px solid black;
+  padding: 20px;
+  margin: 10px;
+  font-family: "kristen ITC";
+  border-radius: 10px;
+  /*opacity: 0.5;*/
+}
+
+/*menu bar*/
+.menu{
+  margin: 0;
+  position: absolute;
+  top: 35%;
+  left: 5%;
+  /*-ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);*/
+}
+
+.button{
+	font-size:20px%;
+	text-align:center;
+	border-radius:8px;
+	color:black;
+	padding:25px 25px;
+	cursor: pointer;
+	font-family:"kristen ITC";
+}
+
+.b1{
+  background-color: white; 
+  color: #ff4d4d; 
+  border: 2px solid #ff4d4d;
+}
+
+.b1:hover {
+  background-color: #ff4d4d;
+  border: 2px solid #ff4d4d;
+  color: white;
+  padding: 25px 25px;
+}
+
+.b2{
+  background-color: white; 
+  color: #ffff00; 
+  border: 2px solid #ffff00;
+}
+
+.b2:hover {
+  background-color: #ffff00;
+  border: 2px solid #ffff00;
+  color: white;
+  padding: 25px 25px;
+}
+
+.b3{
+  background-color: white; 
+  color: #ff33ff; 
+  border: 2px solid #ff33ff;
+}
+
+.b3:hover {
+  background-color: #ff33ff;
+  border: 2px solid #ff33ff;
+  color: white;
+  padding: 25px 25px;
+}
+
+.b4{
+  background-color: white; 
+  color: #33ff33; 
+  border: 2px solid #33ff33;
+}
+
+.b4:hover {
+  background-color: #33ff33;
+  border: 2px solid #33ff33;
+  color: white;
+  padding: 25px 25px;
+}
+
+.b5{
+  background-color: white; 
+  color: #bf80ff; 
+  border: 2px solid #bf80ff;
+}
+
+.b5:hover {
+  background-color: #bf80ff;
+  border: 2px solid #bf80ff;
+  color: white;
+  padding: 25px 25px;
+}
+
+/*main para*/
+.mainpara{
+	font-size:20px%;
+	text-align:center;
+	border-radius:8px;
+	color:black;
+	padding:25px 25px;
+	cursor: pointer;
+	font-family:"kristen ITC";
+	background-color:  #ffff66;
+	border: 2px solid black;
+	width: 70%;
+	height: 20%;
+}
+
+/*ad1**/
+
+.ad1{
+  margin: 0;
+  position: absolute;
+  top: 48.5%;
+  right: 3.5%;
+  /*-ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);*/
+}
+
+.imd1{
+	width: 220px;
+	height:720px;
+}
+
+.ad2{
+  margin: 0;
+  position: absolute;
+  top: 140%;
+  left: 3.5%;
+  /*-ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);*/
+}
+
+.imd2{
+	width: 220px;
+	height:720px;
+}
+
+/*playbutton*/
+.pbutton{
+	width:300px;
+	height:75px;
+	background-color: DodgerBlue;
+	border: none;
+	color: white;
+	padding: 15px 32px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 26px;
+	margin: 4px 2px;
+	cursor: pointer;
+	/*-webkit-transition-duration: 0.4s;  Safari */
+	transition-duration: 0.4s;	
+	font-family: "kristen ITC";
+	box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+
+
+.sgames{
+  margin: 0;
+  position: absolute;
+  top: 215%;
+  left: 30%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+
+.simg{
+  top: 100%;
+  width: 400px;
+  height: 300px;
+}
+
+.sgames1{
+  margin: 0;
+  position: absolute;
+  top: 215%;
+  left: 60%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+
+.sgames2{
+  margin: 0;
+  position: absolute;
+  top: 215%;
+  left: 88%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+

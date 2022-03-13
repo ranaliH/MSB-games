@@ -1,0 +1,213 @@
+@charset"utf-8"
+.body{}
+
+.rectangle1{
+	height:60px;
+	width: 250px;
+	background-color: #E0EE38;
+	border: 2px ;
+	border-style: dashed;
+	border-color: #99a534;
+	border-radius: 10px;
+}
+h2{
+	font-family: Kristen ITC, Sans-serif;
+}
+.rectangle2{
+	height:230px;
+	width: 1308px;
+	background-color: #FF40C8;
+	border: 2px dotted #ffb4b0;
+	border-radius: 10px;
+}
+.rectangle3{
+	height:230px;
+	width: 1308px;
+	background-color: #50D52C;
+	border: 2px dotted #99a534;
+	border-radius: 10px;
+}
+.rectangle4{
+	height:230px;
+	width: 1308px;
+	background-color: #EACB2F;
+	border: 2px dotted #c1d045;
+	border-radius: 10px;
+}
+.rectangle5{
+	height:230px;
+	width: 1308px;
+	background-color: #CB2ABB;
+	border: 2px dotted #c238eb;
+	border-radius: 10px;
+}
+.lan{
+	text-decoration: none;
+	color: black;
+	background: #FC83D9;
+}
+.sci{
+	text-decoration: none;
+	color: black;
+	background: #75EF54;
+}
+.math{
+	text-decoration: none;
+	color: black;
+	background: #FEE151;
+}
+.iq{
+	text-decoration: none;
+	color: black;
+	background: #F33FE2;
+}
+#lan1{
+	height: 150px;
+	width: 115px;
+	position: absolute;
+	
+}
+#lan2{
+	height: 150px;
+	width: 235px;
+	position: absolute;
+	margin-left: 140px;
+}
+#lan3{
+	height: 150px;
+	width: 215px;
+	position: absolute;
+	margin-left: 400px;
+	
+}
+#lan4{
+	height: 150px;
+	width: 240px;
+	position: absolute;
+	margin-left: 140px;
+	margin-left: 640px;
+}
+#lan5{
+	height: 150px;
+	width: 215px;
+	position: absolute;
+	margin-left: 906px;
+	
+}
+#lan6{
+	height: 150px;
+	width: 150px;
+	position: absolute;
+	margin-left: 1143px;
+}
+#sci1{
+	height: 150px;
+	width: 215px;
+	position: absolute;
+}
+#sci2{
+	height: 150px;
+	width: 230px;
+	position: absolute;
+	margin-left: 240px;
+}
+#sci3{
+	height: 150px;
+	width: 240px;
+	position: absolute;
+	margin-left: 495px;
+	
+}
+#sci4{
+	height: 150px;
+	width: 240px;
+	position: absolute;
+	margin-left: 140px;
+	margin-left: 760px;
+}
+#sci5{
+	height: 150px;
+	width: 215px;
+	position: absolute;
+	margin-left: 1026px;
+	
+}
+#math1{
+	height: 150px;
+	width: 180px;
+	position: absolute;
+}
+#math2{
+	height: 150px;
+	width: 230px;
+	position: absolute;
+	margin-left: 220px;
+}
+#math3{
+	height: 150px;
+	width: 240px;
+	position: absolute;
+	margin-left: 485px;
+	
+}
+#math4{
+	height: 150px;
+	width: 240px;
+	position: absolute;
+	margin-left: 140px;
+	margin-left: 760px;
+}
+#math5{
+	height: 150px;
+	width: 235px;
+	position: absolute;
+	margin-left: 1036px;
+	
+}
+#iq1{
+	height: 150px;
+	width: 160px;
+	position: absolute;
+}
+#iq2{
+	height: 150px;
+	width: 230px;
+	position: absolute;
+	margin-left: 183px;
+}
+#iq3{
+	height: 150px;
+	width: 150px;
+	position: absolute;
+	margin-left: 438px;
+	
+}
+#iq4{
+	height: 150px;
+	width: 220px;
+	position: absolute;
+	margin-left: 140px;
+	margin-left: 610px;
+}
+#iq5{
+	height: 150px;
+	width: 200px;
+	position: absolute;
+	margin-left: 860px;
+	
+}
+#iq6{
+	height: 150px;
+	width: 215px;
+	position: absolute;
+	margin-left: 1086px;
+	
+}
+.adds{
+	height: 110px;
+	width: 100%;
+	background-color: gray;
+}
+h2 a:hover {
+  color: red;
+}
